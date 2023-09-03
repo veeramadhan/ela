@@ -1,0 +1,38 @@
+.topimg img{
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow:  rgb(234, 179, 61, 0.4);
+   opacity: 0.9;
+    width: 100%;
+    
+}
+/* .logo img{
+    position: static;
+    height: 100px;
+    width: 100px;
+    top: 0;
+    
+  } */
+  
+.slider {
+    position: absolute;
+    height: 5rem;
+    width: 50rem;
+    top: 0;
+}
+
+.paara{
+    position: absolute;
+    top: 290px;
+    padding-left: 350px;
+    font-family: 'Bungee Spice';font-size: 22px;
+   
+}
+
+.button{
+    position: absolute;
+    top:400px;
+    padding-left: 550px;
+}
